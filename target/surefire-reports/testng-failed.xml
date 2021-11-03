@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression Execution]">
+  <parameter name="browser" value="Firefox"/>
+  <listeners>
+    <listener class-name="com.SM.utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="TC002_Verify_Singup_Link(failed)">
+    <classes>
+      <class name="com.SM.testCases.TC002_Verify_Singup_Link">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifySignUpLinkExistTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.SM.testCases.TC002_Verify_Singup_Link -->
+    </classes>
+  </test> <!-- TC002_Verify_Singup_Link(failed) -->
+</suite> <!-- Failed suite [Regression Execution] -->

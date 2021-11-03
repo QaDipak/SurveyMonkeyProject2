@@ -1,0 +1,13 @@
+[INFO ] 31-10-2021 05:53:14.790 TC001_Login_Test - *****Firefox browser is launched succuessfully*********
+ [INFO ] 31-10-2021 05:53:23.225 TC001_Login_Test - *****URL launched is :- https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu******
+ [INFO ] 31-10-2021 05:53:24.326 TC001_Login_Test - *****Accept all cookiees********
+ [INFO ] 31-10-2021 05:53:27.888 TC001_Login_Test - *****Username entered is :- tekinspireinfotech********
+ [INFO ] 31-10-2021 05:53:30.552 TC001_Login_Test - *****Password entered is :- seleniumtraining*******
+ [INFO ] 31-10-2021 05:53:31.127 TC001_Login_Test - ****Captured screenshots successfully******
+ [INFO ] 31-10-2021 05:53:38.073 TC001_Login_Test - *****Clicked on Login Button*******
+ [INFO ] 31-10-2021 05:53:38.360 TC001_Login_Test - ****Captured screenshots successfully******
+ [INFO ] 31-10-2021 05:53:45.766 TC001_Login_Test - *****************User logged in successfully****************
+ [INFO ] 31-10-2021 05:53:48.918 TC001_Login_Test - ****Application closed successfully****
+ [INFO ] 31-10-2021 05:53:57.009 TC002_Verify_Singup_Link - *****Firefox browser is launched succuessfully*********
+ [INFO ] 31-10-2021 05:53:58.211 TC002_Verify_Singup_Link - *****URL launched is :- https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu******
+ 
